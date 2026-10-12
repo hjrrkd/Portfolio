@@ -22,12 +22,15 @@ Kubernetes 기반 플랫폼 제어와 AWS EKS 인프라 구축 경험을 정리�
 - Shell Script 기반 인프라 구축 및 배포 검증 절차 자동화
 - ImagePullBackOff 등 Kubernetes 배포 오류 분석 및 대응
 
-## Skills
+## Tech Stack
 
-`Kubernetes` `AWS EKS` `Terraform` `Go` `Docker` `Linux` `Longhorn CSI` `EBS CSI` `ECR` `RBAC` `Shell Script`
-
+- **Platform**: Kubernetes, StatefulSet, CRD/Operator, PV/PVC, CSI
+- **Cloud / IaC**: AWS (EKS, ECR, IAM), Terraform
+- **OS / Automation**: Linux (RHEL/Rocky Linux), Shell Script
+  
 ## Certifications
 
 - CKA (Certified Kubernetes Administrator)
 - RHCE (Red Hat Certified Engineer)
 - RHCSA (Red Hat Certified System Administrator)
+- 정보처리기사
